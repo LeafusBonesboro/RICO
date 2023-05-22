@@ -21,7 +21,7 @@ needed are the rates for all applicable shifts and all applicable associates.
 From this data a mean will be established and then the standard deviation can be made. We can then compare that data to the Poisson distribution.The Poisson distribution gives a good 
 approximation for events with a known average rate. The better our model the better the results will be. 
 
-Once the data is analyzed we compare the Poisson distribution agaisnt the mean and standard deviation of our dataset. We can then begin to look and setting a deviation and controls.
+Once the data is analyzed we compare the Poisson distribution agaisnt the mean and standard deviation of our dataset. We can then begin to look at setting a deviation and control lines. 
 Then we can implement a system for monitoring and feedback. We then adjust the deviations based on the observations and feedback from the associates and the managers.
 
 The deviations are just one tool to be considered when detecting if cheating behavior has occured. Investigation, additional data analysis, and 
