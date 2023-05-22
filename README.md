@@ -6,7 +6,7 @@ The main_code.py file is the cheat detection. Its a poisson distribution that de
 The webscrape.py file is a webscraping tool that was made to automate the end of day task for the Amazon Workforce team. Right now its out of date
 as it hasnt been used since I was there last year. 
 
-The csv files are being used to automating csv files and put them into a data form with pandas and excel. All of those files havent been uploaded.
+The csv files are being used for automating csv files and putting them into a data form with pandas and excel. All of those files havent been uploaded.
 The other files are dependencies for the webscaper. Right now ChromeDriver is active so it only will work with Chrome, but GeckoDriver is also 
 in the code so it can be used for Firefox. The Geckodriver is currently hashed out. 
 
