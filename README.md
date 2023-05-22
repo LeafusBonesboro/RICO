@@ -19,13 +19,14 @@ that correspond to actual cheating behavior. This can help establish a baseline 
 needed are the rates for all applicable shifts and all applicable associates. 
 
 From this data a mean will be established and then the standard deviation can be made. We can then compare that data to the Poisson distribution.The Poisson distribution gives a good 
-approximation for events with a known average rate.  Other statiscal  models should be considered if its not found to be appropriate due to the nuanced and complex scenario of a IXD. 
-The better we can model it the better the results will be. 
+approximation for events with a known average rate. The better our model the better the results will be. 
 
-Once the data is analyzed we compare the Poisson distribution agaisnt the mean and standard deviation our dataset and begin to have a better understanding of where we are at.then we 
-can implement a system for monitoring and feedback. We then adjust the deviations based on the observations and feedback from the associates and the managers.
+Once the data is analyzed we compare the Poisson distribution agaisnt the mean and standard deviation of our dataset. We can then begin to look and setting a deviation and controls.
+Then we can implement a system for monitoring and feedback. We then adjust the deviations based on the observations and feedback from the associates and the managers.
 
 The deviations are just one tool to be considered when detecting if cheating behavior has occured. Investigation, additional data analysis, and 
-specific context should also be used. This is to be a red flag.
+specific context should also be used. This is to be a red flag to catch consistent abusers.
 
 This tool can be used in real time. As soon as the data is available the script can run and scrape the data it needs and give accurate results. 
+
+A GUI will be useful for users and can be made into an app. This is a tool that will be easy to use. 
