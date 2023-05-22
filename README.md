@@ -10,7 +10,7 @@ The csv files are being used to automating csv files and put them into a data fo
 The other files are dependencies for the webscaper. Right now ChromeDriver is active so it only will work with Chrome, but GeckoDriver is also 
 in the code so it can be used for Firefox. The Geckodriver is currently hashed out. 
 
-The scraper will be useful to quickly collect historical data and to analyze it. The current code just needs to changes to file locations and then needs to get
+The scraper will be useful to quickly collect historical data and to analyze it. The current code just needs changes to file locations and then needs to get
 the html tags for Selenium. Once the data has been collected and analyzed we will have some context to determine how many deviations are needed to detect outliers. 
 Too many deviations and it becomes too sensitive and wont catch any cheaters. Too low and it will list everyone as a cheater. 
 
